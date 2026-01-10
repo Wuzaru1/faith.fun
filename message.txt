@@ -1,0 +1,1095 @@
+local _0B_Visits = ItemLibrary_upvr.ViewModels["10B Visits"]
+add_cosmetic_upvr("Skin", "Unique", "10B Visits", _0B_Visits.Image, 3, nil, "Earned by redeeming a code when the game (RIVALS) reaches 10,000,000,000 visits", nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = _0B_Visits.ImageHighResolution;
+})
+local Compound_Bow = ItemLibrary_upvr.ViewModels["Compound Bow"]
+add_cosmetic_upvr("Skin", "Common", "Compound Bow", Compound_Bow.Image, 3, nil, nil, nil, {
+	ItemName = "Bow";
+	ImageHighResolution = Compound_Bow.ImageHighResolution;
+})
+local Goalpost = ItemLibrary_upvr.ViewModels.Goalpost
+add_cosmetic_upvr("Skin", "Common", "Goalpost", Goalpost.Image, 3, nil, nil, nil, {
+	ItemName = "Slingshot";
+	ImageHighResolution = Goalpost.ImageHighResolution;
+})
+local Stick = ItemLibrary_upvr.ViewModels.Stick
+add_cosmetic_upvr("Skin", "Common", "Stick", Stick.Image, 3, nil, nil, nil, {
+	ItemName = "Slingshot";
+	ImageHighResolution = Stick.ImageHighResolution;
+})
+local Chancla = ItemLibrary_upvr.ViewModels.Chancla
+add_cosmetic_upvr("Skin", "Common", "Chancla", Chancla.Image, 3, nil, nil, nil, {
+	ItemName = "Knife";
+	ImageHighResolution = Chancla.ImageHighResolution;
+})
+local Coffee = ItemLibrary_upvr.ViewModels.Coffee
+add_cosmetic_upvr("Skin", "Common", "Coffee", Coffee.Image, 3, nil, nil, nil, {
+	ItemName = "Molotov";
+	ImageHighResolution = Coffee.ImageHighResolution;
+})
+local Too_Shorty = ItemLibrary_upvr.ViewModels["Too Shorty"]
+add_cosmetic_upvr("Skin", "Common", "Too Shorty", Too_Shorty.Image, 3, nil, "Included in the Starter Bundle", nil, {
+	ItemName = "Shorty";
+	ImageHighResolution = Too_Shorty.ImageHighResolution;
+})
+local Not_So_Shorty = ItemLibrary_upvr.ViewModels["Not So Shorty"]
+add_cosmetic_upvr("Skin", "Common", "Not So Shorty", Not_So_Shorty.Image, 3, nil, nil, nil, {
+	ItemName = "Shorty";
+	ImageHighResolution = Not_So_Shorty.ImageHighResolution;
+})
+local Lovely_Shorty = ItemLibrary_upvr.ViewModels["Lovely Shorty"]
+add_cosmetic_upvr("Skin", "Common", "Lovely Shorty", Lovely_Shorty.Image, 3, nil, nil, nil, {
+	ItemName = "Shorty";
+	ImageHighResolution = Lovely_Shorty.ImageHighResolution;
+})
+local Lamethrower = ItemLibrary_upvr.ViewModels.Lamethrower
+add_cosmetic_upvr("Skin", "Common", "Lamethrower", Lamethrower.Image, 3, nil, nil, nil, {
+	ItemName = "Flamethrower";
+	ImageHighResolution = Lamethrower.ImageHighResolution;
+})
+local Brass_Knuckles = ItemLibrary_upvr.ViewModels["Brass Knuckles"]
+add_cosmetic_upvr("Skin", "Common", "Brass Knuckles", Brass_Knuckles.Image, 3, nil, nil, nil, {
+	ItemName = "Fists";
+	ImageHighResolution = Brass_Knuckles.ImageHighResolution;
+})
+local Balance = ItemLibrary_upvr.ViewModels.Balance
+add_cosmetic_upvr("Skin", "Common", "Balance", Balance.Image, 3, nil, nil, nil, {
+	ItemName = "Smoke Grenade";
+	ImageHighResolution = Balance.ImageHighResolution;
+})
+local Torch = ItemLibrary_upvr.ViewModels.Torch
+add_cosmetic_upvr("Skin", "Common", "Torch", Torch.Image, 3, nil, nil, nil, {
+	ItemName = "Molotov";
+	ImageHighResolution = Torch.ImageHighResolution;
+})
+local Machete = ItemLibrary_upvr.ViewModels.Machete
+add_cosmetic_upvr("Skin", "Common", "Machete", Machete.Image, 3, nil, nil, nil, {
+	ItemName = "Knife";
+	ImageHighResolution = Machete.ImageHighResolution;
+})
+local Pumpkin_Claws = ItemLibrary_upvr.ViewModels["Pumpkin Claws"]
+add_cosmetic_upvr("Skin", "Common", "Pumpkin Claws", Pumpkin_Claws.Image, 3, nil, nil, nil, {
+	ItemName = "Fists";
+	ImageHighResolution = Pumpkin_Claws.ImageHighResolution;
+})
+local Eyething_Sniper = ItemLibrary_upvr.ViewModels["Eyething Sniper"]
+add_cosmetic_upvr("Skin", "Common", "Eyething Sniper", Eyething_Sniper.Image, 3, nil, nil, nil, {
+	ItemName = "Sniper";
+	ImageHighResolution = Eyething_Sniper.ImageHighResolution;
+})
+local Pumpkin_Handgun = ItemLibrary_upvr.ViewModels["Pumpkin Handgun"]
+add_cosmetic_upvr("Skin", "Common", "Pumpkin Handgun", Pumpkin_Handgun.Image, 3, nil, nil, nil, {
+	ItemName = "Handgun";
+	ImageHighResolution = Pumpkin_Handgun.ImageHighResolution;
+})
+local Spectral_Burst = ItemLibrary_upvr.ViewModels["Spectral Burst"]
+add_cosmetic_upvr("Skin", "Common", "Spectral Burst", Spectral_Burst.Image, 3, nil, nil, nil, {
+	ItemName = "Burst Rifle";
+	ImageHighResolution = Spectral_Burst.ImageHighResolution;
+})
+local Pumpkin_Minigun = ItemLibrary_upvr.ViewModels["Pumpkin Minigun"]
+add_cosmetic_upvr("Skin", "Common", "Pumpkin Minigun", Pumpkin_Minigun.Image, 3, nil, nil, nil, {
+	ItemName = "Minigun";
+	ImageHighResolution = Pumpkin_Minigun.ImageHighResolution;
+})
+local Skullbang = ItemLibrary_upvr.ViewModels.Skullbang
+add_cosmetic_upvr("Skin", "Common", "Skullbang", Skullbang.Image, 3, nil, nil, nil, {
+	ItemName = "Flashbang";
+	ImageHighResolution = Skullbang.ImageHighResolution;
+})
+local Trick_or_Treat = ItemLibrary_upvr.ViewModels["Trick or Treat"]
+add_cosmetic_upvr("Skin", "Common", "Trick or Treat", Trick_or_Treat.Image, 3, nil, nil, nil, {
+	ItemName = "Subspace Tripmine";
+	ImageHighResolution = Trick_or_Treat.ImageHighResolution;
+})
+local Door = ItemLibrary_upvr.ViewModels.Door
+add_cosmetic_upvr("Skin", "Common", "Door", Door.Image, 3, nil, nil, nil, {
+	ItemName = "Riot Shield";
+	ImageHighResolution = Door.ImageHighResolution;
+})
+local Lovely_Spray = ItemLibrary_upvr.ViewModels["Lovely Spray"]
+add_cosmetic_upvr("Skin", "Common", "Lovely Spray", Lovely_Spray.Image, 3, nil, nil, nil, {
+	ItemName = "Spray";
+	ImageHighResolution = Lovely_Spray.ImageHighResolution;
+})
+local Wrapped_Shotgun = ItemLibrary_upvr.ViewModels["Wrapped Shotgun"]
+add_cosmetic_upvr("Skin", "Common", "Wrapped Shotgun", Wrapped_Shotgun.Image, 3, nil, nil, nil, {
+	ItemName = "Shotgun";
+	ImageHighResolution = Wrapped_Shotgun.ImageHighResolution;
+})
+local Wrapped_Shorty = ItemLibrary_upvr.ViewModels["Wrapped Shorty"]
+add_cosmetic_upvr("Skin", "Common", "Wrapped Shorty", Wrapped_Shorty.Image, 3, nil, nil, nil, {
+	ItemName = "Shorty";
+	ImageHighResolution = Wrapped_Shorty.ImageHighResolution;
+})
+local Wrapped_Flare_Gun = ItemLibrary_upvr.ViewModels["Wrapped Flare Gun"]
+add_cosmetic_upvr("Skin", "Common", "Wrapped Flare Gun", Wrapped_Flare_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Flare Gun";
+	ImageHighResolution = Wrapped_Flare_Gun.ImageHighResolution;
+})
+local Wrapped_Minigun = ItemLibrary_upvr.ViewModels["Wrapped Minigun"]
+add_cosmetic_upvr("Skin", "Common", "Wrapped Minigun", Wrapped_Minigun.Image, 3, nil, nil, nil, {
+	ItemName = "Minigun";
+	ImageHighResolution = Wrapped_Minigun.ImageHighResolution;
+})
+local Wrapped_Freeze_Ray = ItemLibrary_upvr.ViewModels["Wrapped Freeze Ray"]
+add_cosmetic_upvr("Skin", "Common", "Wrapped Freeze Ray", Wrapped_Freeze_Ray.Image, 3, nil, nil, nil, {
+	ItemName = "Freeze Ray";
+	ImageHighResolution = Wrapped_Freeze_Ray.ImageHighResolution;
+})
+local Mammoth_Horn = ItemLibrary_upvr.ViewModels["Mammoth Horn"]
+add_cosmetic_upvr("Skin", "Common", "Mammoth Horn", Mammoth_Horn.Image, 3, nil, nil, nil, {
+	ItemName = "War Horn";
+	ImageHighResolution = Mammoth_Horn.ImageHighResolution;
+})
+local Festive_Fists = ItemLibrary_upvr.ViewModels["Festive Fists"]
+add_cosmetic_upvr("Skin", "Common", "Festive Fists", Festive_Fists.Image, 3, nil, nil, nil, {
+	ItemName = "Fists";
+	ImageHighResolution = Festive_Fists.ImageHighResolution;
+})
+local Midnight_Festive_Exogun = ItemLibrary_upvr.ViewModels["Midnight Festive Exogun"]
+add_cosmetic_upvr("Skin", "Common", "Midnight Festive Exogun", Midnight_Festive_Exogun.Image, 3, nil, nil, nil, {
+	ItemName = "Exogun";
+	ImageHighResolution = Midnight_Festive_Exogun.ImageHighResolution;
+})
+local Sled = ItemLibrary_upvr.ViewModels.Sled
+add_cosmetic_upvr("Skin", "Common", "Sled", Sled.Image, 3, nil, nil, nil, {
+	ItemName = "Riot Shield";
+	ImageHighResolution = Sled.ImageHighResolution;
+})
+local Nordic_Axe = ItemLibrary_upvr.ViewModels["Nordic Axe"]
+add_cosmetic_upvr("Skin", "Common", "Nordic Axe", Nordic_Axe.Image, 3, nil, nil, nil, {
+	ItemName = "Battle Axe";
+	ImageHighResolution = Nordic_Axe.ImageHighResolution;
+})
+local Suspicious_Gift = ItemLibrary_upvr.ViewModels["Suspicious Gift"]
+add_cosmetic_upvr("Skin", "Common", "Suspicious Gift", Suspicious_Gift.Image, 3, nil, nil, nil, {
+	ItemName = "Satchel";
+	ImageHighResolution = Suspicious_Gift.ImageHighResolution;
+})
+local Pine_Burst = ItemLibrary_upvr.ViewModels["Pine Burst"]
+add_cosmetic_upvr("Skin", "Common", "Pine Burst", Pine_Burst.Image, 3, nil, nil, nil, {
+	ItemName = "Burst Rifle";
+	ImageHighResolution = Pine_Burst.ImageHighResolution;
+})
+local Pine_Uzi = ItemLibrary_upvr.ViewModels["Pine Uzi"]
+add_cosmetic_upvr("Skin", "Common", "Pine Uzi", Pine_Uzi.Image, 3, nil, nil, nil, {
+	ItemName = "Uzi";
+	ImageHighResolution = Pine_Uzi.ImageHighResolution;
+})
+local Pine_Spray = ItemLibrary_upvr.ViewModels["Pine Spray"]
+add_cosmetic_upvr("Skin", "Common", "Pine Spray", Pine_Spray.Image, 3, nil, nil, nil, {
+	ItemName = "Spray";
+	ImageHighResolution = Pine_Spray.ImageHighResolution;
+})
+local Elf_s_Gunblade = ItemLibrary_upvr.ViewModels["Elf's Gunblade"]
+add_cosmetic_upvr("Skin", "Common", "Elf's Gunblade", Elf_s_Gunblade.Image, 3, nil, nil, nil, {
+	ItemName = "Gunblade";
+	ImageHighResolution = Elf_s_Gunblade.ImageHighResolution;
+})
+local Phoenix_Rifle = ItemLibrary_upvr.ViewModels["Phoenix Rifle"]
+add_cosmetic_upvr("Skin", "Common", "Phoenix Rifle", Phoenix_Rifle.Image, 3, nil, "Obtained by playing Ranked Season 0", nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = Phoenix_Rifle.ImageHighResolution;
+})
+local Trampoline = ItemLibrary_upvr.ViewModels.Trampoline
+add_cosmetic_upvr("Skin", "Common", "Trampoline", Trampoline.Image, 3, nil, nil, nil, {
+	ItemName = "Jump Pad";
+	ImageHighResolution = Trampoline.ImageHighResolution;
+})
+local Ban_Axe = ItemLibrary_upvr.ViewModels["Ban Axe"]
+add_cosmetic_upvr("Skin", "Common", "Ban Axe", Ban_Axe.Image, 3, nil, nil, nil, {
+	ItemName = "Battle Axe";
+	ImageHighResolution = Ban_Axe.ImageHighResolution;
+})
+local Cactus_Shotgun = ItemLibrary_upvr.ViewModels["Cactus Shotgun"]
+add_cosmetic_upvr("Skin", "Common", "Cactus Shotgun", Cactus_Shotgun.Image, 3, nil, nil, nil, {
+	ItemName = "Shotgun";
+	ImageHighResolution = Cactus_Shotgun.ImageHighResolution;
+})
+local Crude_Gunblade = ItemLibrary_upvr.ViewModels["Crude Gunblade"]
+add_cosmetic_upvr("Skin", "Common", "Crude Gunblade", Crude_Gunblade.Image, 3, nil, nil, nil, {
+	ItemName = "Gunblade";
+	ImageHighResolution = Crude_Gunblade.ImageHighResolution;
+})
+local DIY_Tripmine = ItemLibrary_upvr.ViewModels["DIY Tripmine"]
+add_cosmetic_upvr("Skin", "Common", "DIY Tripmine", DIY_Tripmine.Image, 3, nil, nil, nil, {
+	ItemName = "Subspace Tripmine";
+	ImageHighResolution = DIY_Tripmine.ImageHighResolution;
+})
+local Dynamite = ItemLibrary_upvr.ViewModels.Dynamite
+add_cosmetic_upvr("Skin", "Common", "Dynamite", Dynamite.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade";
+	ImageHighResolution = Dynamite.ImageHighResolution;
+})
+local Gumball_Handgun = ItemLibrary_upvr.ViewModels["Gumball Handgun"]
+add_cosmetic_upvr("Skin", "Common", "Gumball Handgun", Gumball_Handgun.Image, 3, nil, nil, nil, {
+	ItemName = "Handgun";
+	ImageHighResolution = Gumball_Handgun.ImageHighResolution;
+})
+local Ketchup_Gun = ItemLibrary_upvr.ViewModels["Ketchup Gun"]
+add_cosmetic_upvr("Skin", "Common", "Ketchup Gun", Ketchup_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Paintball Gun";
+	ImageHighResolution = Ketchup_Gun.ImageHighResolution;
+})
+local Lightbulb = ItemLibrary_upvr.ViewModels.Lightbulb
+add_cosmetic_upvr("Skin", "Common", "Lightbulb", Lightbulb.Image, 3, nil, nil, nil, {
+	ItemName = "Flashbang";
+	ImageHighResolution = Lightbulb.ImageHighResolution;
+})
+local Megaphone = ItemLibrary_upvr.ViewModels.Megaphone
+add_cosmetic_upvr("Skin", "Common", "Megaphone", Megaphone.Image, 3, nil, nil, nil, {
+	ItemName = "War Horn";
+	ImageHighResolution = Megaphone.ImageHighResolution;
+})
+local Nail_Gun = ItemLibrary_upvr.ViewModels["Nail Gun"]
+add_cosmetic_upvr("Skin", "Common", "Nail Gun", Nail_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Spray";
+	ImageHighResolution = Nail_Gun.ImageHighResolution;
+})
+local Notebook_Satchel = ItemLibrary_upvr.ViewModels["Notebook Satchel"]
+add_cosmetic_upvr("Skin", "Common", "Notebook Satchel", Notebook_Satchel.Image, 3, nil, nil, nil, {
+	ItemName = "Satchel";
+	ImageHighResolution = Notebook_Satchel.ImageHighResolution;
+})
+local Paper_Planes = ItemLibrary_upvr.ViewModels["Paper Planes"]
+add_cosmetic_upvr("Skin", "Common", "Paper Planes", Paper_Planes.Image, 3, nil, nil, nil, {
+	ItemName = "Daggers";
+	ImageHighResolution = Paper_Planes.ImageHighResolution;
+})
+local Pencil_Launcher = ItemLibrary_upvr.ViewModels["Pencil Launcher"]
+add_cosmetic_upvr("Skin", "Common", "Pencil Launcher", Pencil_Launcher.Image, 3, nil, "Included in the RPG Bundle", nil, {
+	ItemName = "RPG";
+	ImageHighResolution = Pencil_Launcher.ImageHighResolution;
+})
+local Bag_o__Money = ItemLibrary_upvr.ViewModels["Bag o' Money"]
+add_cosmetic_upvr("Skin", "Common", "Bag o' Money", Bag_o__Money.Image, 3, nil, nil, nil, {
+	ItemName = "Satchel";
+	ImageHighResolution = Bag_o__Money.ImageHighResolution;
+})
+local Shurikens = ItemLibrary_upvr.ViewModels.Shurikens
+add_cosmetic_upvr("Skin", "Common", "Shurikens", Shurikens.Image, 3, nil, nil, nil, {
+	ItemName = "Daggers";
+	ImageHighResolution = Shurikens.ImageHighResolution;
+})
+local Slime_Gun = ItemLibrary_upvr.ViewModels["Slime Gun"]
+add_cosmetic_upvr("Skin", "Rare", "Slime Gun", Slime_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Paintball Gun";
+	ImageHighResolution = Slime_Gun.ImageHighResolution;
+})
+local Blobsaw = ItemLibrary_upvr.ViewModels.Blobsaw
+add_cosmetic_upvr("Skin", "Rare", "Blobsaw", Blobsaw.Image, 3, nil, nil, nil, {
+	ItemName = "Chainsaw";
+	ImageHighResolution = Blobsaw.ImageHighResolution;
+})
+local Plastic_Shovel = ItemLibrary_upvr.ViewModels["Plastic Shovel"]
+add_cosmetic_upvr("Skin", "Rare", "Plastic Shovel", Plastic_Shovel.Image, 3, nil, nil, nil, {
+	ItemName = "Trowel";
+	ImageHighResolution = Plastic_Shovel.ImageHighResolution;
+})
+local Wondergun = ItemLibrary_upvr.ViewModels.Wondergun
+add_cosmetic_upvr("Skin", "Rare", "Wondergun", Wondergun.Image, 3, nil, "Included in the Exogun Bundle", nil, {
+	ItemName = "Exogun";
+	ImageHighResolution = Wondergun.ImageHighResolution;
+})
+local Boxing_Gloves = ItemLibrary_upvr.ViewModels["Boxing Gloves"]
+add_cosmetic_upvr("Skin", "Rare", "Boxing Gloves", Boxing_Gloves.Image, 3, nil, nil, nil, {
+	ItemName = "Fists";
+	ImageHighResolution = Boxing_Gloves.ImageHighResolution;
+})
+local AK_47 = ItemLibrary_upvr.ViewModels["AK-47"]
+add_cosmetic_upvr("Skin", "Rare", "AK-47", AK_47.Image, 3, nil, nil, nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = AK_47.ImageHighResolution;
+})
+local Briefcase = ItemLibrary_upvr.ViewModels.Briefcase
+add_cosmetic_upvr("Skin", "Rare", "Briefcase", Briefcase.Image, 3, nil, "Included in the Medkit Bundle", nil, {
+	ItemName = "Medkit";
+	ImageHighResolution = Briefcase.ImageHighResolution;
+})
+local Scythe_of_Death = ItemLibrary_upvr.ViewModels["Scythe of Death"]
+add_cosmetic_upvr("Skin", "Rare", "Scythe of Death", Scythe_of_Death.Image, 3, nil, nil, nil, {
+	ItemName = "Scythe";
+	ImageHighResolution = Scythe_of_Death.ImageHighResolution;
+})
+local Blaster = ItemLibrary_upvr.ViewModels.Blaster
+add_cosmetic_upvr("Skin", "Rare", "Blaster", Blaster.Image, 3, nil, nil, nil, {
+	ItemName = "Handgun";
+	ImageHighResolution = Blaster.ImageHighResolution;
+})
+local Water_Uzi = ItemLibrary_upvr.ViewModels["Water Uzi"]
+add_cosmetic_upvr("Skin", "Rare", "Water Uzi", Water_Uzi.Image, 3, nil, nil, nil, {
+	ItemName = "Uzi";
+	ImageHighResolution = Water_Uzi.ImageHighResolution;
+})
+local Desert_Eagle = ItemLibrary_upvr.ViewModels["Desert Eagle"]
+add_cosmetic_upvr("Skin", "Rare", "Desert Eagle", Desert_Eagle.Image, 3, nil, nil, nil, {
+	ItemName = "Revolver";
+	ImageHighResolution = Desert_Eagle.ImageHighResolution;
+})
+local Dynamite_Gun = ItemLibrary_upvr.ViewModels["Dynamite Gun"]
+add_cosmetic_upvr("Skin", "Rare", "Dynamite Gun", Dynamite_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Flare Gun";
+	ImageHighResolution = Dynamite_Gun.ImageHighResolution;
+})
+local Raven_Bow = ItemLibrary_upvr.ViewModels["Raven Bow"]
+add_cosmetic_upvr("Skin", "Rare", "Raven Bow", Raven_Bow.Image, 3, nil, nil, nil, {
+	ItemName = "Bow";
+	ImageHighResolution = Raven_Bow.ImageHighResolution;
+})
+local Anchor = ItemLibrary_upvr.ViewModels.Anchor
+add_cosmetic_upvr("Skin", "Rare", "Anchor", Anchor.Image, 3, nil, nil, nil, {
+	ItemName = "Scythe";
+	ImageHighResolution = Anchor.ImageHighResolution;
+})
+local Water_Balloon = ItemLibrary_upvr.ViewModels["Water Balloon"]
+add_cosmetic_upvr("Skin", "Rare", "Water Balloon", Water_Balloon.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade";
+	ImageHighResolution = Water_Balloon.ImageHighResolution;
+})
+local Garden_Shovel = ItemLibrary_upvr.ViewModels["Garden Shovel"]
+add_cosmetic_upvr("Skin", "Rare", "Garden Shovel", Garden_Shovel.Image, 3, nil, nil, nil, {
+	ItemName = "Trowel";
+	ImageHighResolution = Garden_Shovel.ImageHighResolution;
+})
+local Uranium_Launcher = ItemLibrary_upvr.ViewModels["Uranium Launcher"]
+add_cosmetic_upvr("Skin", "Rare", "Uranium Launcher", Uranium_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade Launcher";
+	ImageHighResolution = Uranium_Launcher.ImageHighResolution;
+})
+local Ray_Gun = ItemLibrary_upvr.ViewModels["Ray Gun"]
+add_cosmetic_upvr("Skin", "Rare", "Ray Gun", Ray_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Exogun";
+	ImageHighResolution = Ray_Gun.ImageHighResolution;
+})
+local Spring = ItemLibrary_upvr.ViewModels.Spring
+add_cosmetic_upvr("Skin", "Rare", "Spring", Spring.Image, 3, nil, nil, nil, {
+	ItemName = "Subspace Tripmine";
+	ImageHighResolution = Spring.ImageHighResolution;
+})
+local Bubble_Ray = ItemLibrary_upvr.ViewModels["Bubble Ray"]
+add_cosmetic_upvr("Skin", "Rare", "Bubble Ray", Bubble_Ray.Image, 3, nil, nil, nil, {
+	ItemName = "Freeze Ray";
+	ImageHighResolution = Bubble_Ray.ImageHighResolution;
+})
+local Aqua_Burst = ItemLibrary_upvr.ViewModels["Aqua Burst"]
+add_cosmetic_upvr("Skin", "Rare", "Aqua Burst", Aqua_Burst.Image, 3, nil, nil, nil, {
+	ItemName = "Burst Rifle";
+	ImageHighResolution = Aqua_Burst.ImageHighResolution;
+})
+local Lightning_Bolt = ItemLibrary_upvr.ViewModels["Lightning Bolt"]
+add_cosmetic_upvr("Skin", "Rare", "Lightning Bolt", Lightning_Bolt.Image, 3, nil, nil, nil, {
+	ItemName = "Katana";
+	ImageHighResolution = Lightning_Bolt.ImageHighResolution;
+})
+local Bat_Scythe = ItemLibrary_upvr.ViewModels["Bat Scythe"]
+add_cosmetic_upvr("Skin", "Rare", "Bat Scythe", Bat_Scythe.Image, 3, nil, nil, nil, {
+	ItemName = "Scythe";
+	ImageHighResolution = Bat_Scythe.ImageHighResolution;
+})
+local Bat_Bow = ItemLibrary_upvr.ViewModels["Bat Bow"]
+add_cosmetic_upvr("Skin", "Rare", "Bat Bow", Bat_Bow.Image, 3, nil, nil, nil, {
+	ItemName = "Bow";
+	ImageHighResolution = Bat_Bow.ImageHighResolution;
+})
+local Devil_s_Trident = ItemLibrary_upvr.ViewModels["Devil's Trident"]
+add_cosmetic_upvr("Skin", "Rare", "Devil's Trident", Devil_s_Trident.Image, 3, nil, nil, nil, {
+	ItemName = "Katana";
+	ImageHighResolution = Devil_s_Trident.ImageHighResolution;
+})
+local Boneshot = ItemLibrary_upvr.ViewModels.Boneshot
+add_cosmetic_upvr("Skin", "Rare", "Boneshot", Boneshot.Image, 3, nil, nil, nil, {
+	ItemName = "Slingshot";
+	ImageHighResolution = Boneshot.ImageHighResolution;
+})
+local Exogourd = ItemLibrary_upvr.ViewModels.Exogourd
+add_cosmetic_upvr("Skin", "Rare", "Exogourd", Exogourd.Image, 3, nil, nil, nil, {
+	ItemName = "Exogun";
+	ImageHighResolution = Exogourd.ImageHighResolution;
+})
+local Pumpkin_Carver = ItemLibrary_upvr.ViewModels["Pumpkin Carver"]
+add_cosmetic_upvr("Skin", "Rare", "Pumpkin Carver", Pumpkin_Carver.Image, 3, nil, nil, nil, {
+	ItemName = "Trowel";
+	ImageHighResolution = Pumpkin_Carver.ImageHighResolution;
+})
+local Demon_Shorty = ItemLibrary_upvr.ViewModels["Demon Shorty"]
+add_cosmetic_upvr("Skin", "Rare", "Demon Shorty", Demon_Shorty.Image, 3, nil, nil, nil, {
+	ItemName = "Shorty";
+	ImageHighResolution = Demon_Shorty.ImageHighResolution;
+})
+local Broomstick = ItemLibrary_upvr.ViewModels.Broomstick
+add_cosmetic_upvr("Skin", "Rare", "Broomstick", Broomstick.Image, 3, nil, nil, nil, {
+	ItemName = "Shotgun";
+	ImageHighResolution = Broomstick.ImageHighResolution;
+})
+local Demon_Uzi = ItemLibrary_upvr.ViewModels["Demon Uzi"]
+add_cosmetic_upvr("Skin", "Rare", "Demon Uzi", Demon_Uzi.Image, 3, nil, nil, nil, {
+	ItemName = "Uzi";
+	ImageHighResolution = Demon_Uzi.ImageHighResolution;
+})
+local Brain_Gun = ItemLibrary_upvr.ViewModels["Brain Gun"]
+add_cosmetic_upvr("Skin", "Rare", "Brain Gun", Brain_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Paintball Gun";
+	ImageHighResolution = Brain_Gun.ImageHighResolution;
+})
+local Jack_O_Thrower = ItemLibrary_upvr.ViewModels["Jack O'Thrower"]
+add_cosmetic_upvr("Skin", "Rare", "Jack O'Thrower", Jack_O_Thrower.Image, 3, nil, nil, nil, {
+	ItemName = "Flamethrower";
+	ImageHighResolution = Jack_O_Thrower.ImageHighResolution;
+})
+local Boneclaw_Revolver = ItemLibrary_upvr.ViewModels["Boneclaw Revolver"]
+add_cosmetic_upvr("Skin", "Rare", "Boneclaw Revolver", Boneclaw_Revolver.Image, 3, nil, nil, nil, {
+	ItemName = "Revolver";
+	ImageHighResolution = Boneclaw_Revolver.ImageHighResolution;
+})
+local Boneclaw_Rifle = ItemLibrary_upvr.ViewModels["Boneclaw Rifle"]
+add_cosmetic_upvr("Skin", "Rare", "Boneclaw Rifle", Boneclaw_Rifle.Image, 3, nil, nil, nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = Boneclaw_Rifle.ImageHighResolution;
+})
+local Hacker_Rifle = ItemLibrary_upvr.ViewModels["Hacker Rifle"]
+add_cosmetic_upvr("Skin", "Rare", "Hacker Rifle", Hacker_Rifle.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Rifle";
+	ImageHighResolution = Hacker_Rifle.ImageHighResolution;
+})
+local Hacker_Pistols = ItemLibrary_upvr.ViewModels["Hacker Pistols"]
+add_cosmetic_upvr("Skin", "Rare", "Hacker Pistols", Hacker_Pistols.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Pistols";
+	ImageHighResolution = Hacker_Pistols.ImageHighResolution;
+})
+local Trumpet = ItemLibrary_upvr.ViewModels.Trumpet
+add_cosmetic_upvr("Skin", "Rare", "Trumpet", Trumpet.Image, 3, nil, nil, nil, {
+	ItemName = "War Horn";
+	ImageHighResolution = Trumpet.ImageHighResolution;
+})
+local Advanced_Satchel = ItemLibrary_upvr.ViewModels["Advanced Satchel"]
+add_cosmetic_upvr("Skin", "Rare", "Advanced Satchel", Advanced_Satchel.Image, 3, nil, nil, nil, {
+	ItemName = "Satchel";
+	ImageHighResolution = Advanced_Satchel.ImageHighResolution;
+})
+local Aces = ItemLibrary_upvr.ViewModels.Aces
+add_cosmetic_upvr("Skin", "Rare", "Aces", Aces.Image, 3, nil, nil, nil, {
+	ItemName = "Daggers";
+	ImageHighResolution = Aces.ImageHighResolution;
+})
+local Apex_Pistols = ItemLibrary_upvr.ViewModels["Apex Pistols"]
+add_cosmetic_upvr("Skin", "Rare", "Apex Pistols", Apex_Pistols.Image, 3, nil, "Included in the Energy Bundle", nil, {
+	ItemName = "Energy Pistols";
+	ImageHighResolution = Apex_Pistols.ImageHighResolution;
+})
+local Apex_Rifle = ItemLibrary_upvr.ViewModels["Apex Rifle"]
+add_cosmetic_upvr("Skin", "Rare", "Apex Rifle", Apex_Rifle.Image, 3, nil, "Included in the Energy Bundle", nil, {
+	ItemName = "Energy Rifle";
+	ImageHighResolution = Apex_Rifle.ImageHighResolution;
+})
+local Gingerbread_Handgun = ItemLibrary_upvr.ViewModels["Gingerbread Handgun"]
+add_cosmetic_upvr("Skin", "Rare", "Gingerbread Handgun", Gingerbread_Handgun.Image, 3, nil, nil, nil, {
+	ItemName = "Handgun";
+	ImageHighResolution = Gingerbread_Handgun.ImageHighResolution;
+})
+local Gingerbread_Sniper = ItemLibrary_upvr.ViewModels["Gingerbread Sniper"]
+add_cosmetic_upvr("Skin", "Rare", "Gingerbread Sniper", Gingerbread_Sniper.Image, 3, nil, nil, nil, {
+	ItemName = "Sniper";
+	ImageHighResolution = Gingerbread_Sniper.ImageHighResolution;
+})
+local Shining_Star = ItemLibrary_upvr.ViewModels["Shining Star"]
+add_cosmetic_upvr("Skin", "Rare", "Shining Star", Shining_Star.Image, 3, nil, nil, nil, {
+	ItemName = "Flashbang";
+	ImageHighResolution = Shining_Star.ImageHighResolution;
+})
+local Snowglobe = ItemLibrary_upvr.ViewModels.Snowglobe
+add_cosmetic_upvr("Skin", "Rare", "Snowglobe", Snowglobe.Image, 3, nil, nil, nil, {
+	ItemName = "Smoke Grenade";
+	ImageHighResolution = Snowglobe.ImageHighResolution;
+})
+local Jingle_Grenade = ItemLibrary_upvr.ViewModels["Jingle Grenade"]
+add_cosmetic_upvr("Skin", "Rare", "Jingle Grenade", Jingle_Grenade.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade";
+	ImageHighResolution = Jingle_Grenade.ImageHighResolution;
+})
+local Reindeer_Slingshot = ItemLibrary_upvr.ViewModels["Reindeer Slingshot"]
+add_cosmetic_upvr("Skin", "Rare", "Reindeer Slingshot", Reindeer_Slingshot.Image, 3, nil, nil, nil, {
+	ItemName = "Slingshot";
+	ImageHighResolution = Reindeer_Slingshot.ImageHighResolution;
+})
+local Snow_Shovel = ItemLibrary_upvr.ViewModels["Snow Shovel"]
+add_cosmetic_upvr("Skin", "Rare", "Snow Shovel", Snow_Shovel.Image, 3, nil, nil, nil, {
+	ItemName = "Trowel";
+	ImageHighResolution = Snow_Shovel.ImageHighResolution;
+})
+local Snowball_Gun = ItemLibrary_upvr.ViewModels["Snowball Gun"]
+add_cosmetic_upvr("Skin", "Rare", "Snowball Gun", Snowball_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Paintball Gun";
+	ImageHighResolution = Snowball_Gun.ImageHighResolution;
+})
+local Cookies = ItemLibrary_upvr.ViewModels.Cookies
+add_cosmetic_upvr("Skin", "Rare", "Cookies", Cookies.Image, 3, nil, nil, nil, {
+	ItemName = "Daggers";
+	ImageHighResolution = Cookies.ImageHighResolution;
+})
+local Frostbite_Bow = ItemLibrary_upvr.ViewModels["Frostbite Bow"]
+add_cosmetic_upvr("Skin", "Rare", "Frostbite Bow", Frostbite_Bow.Image, 3, nil, nil, nil, {
+	ItemName = "Bow";
+	ImageHighResolution = Frostbite_Bow.ImageHighResolution;
+})
+local Frostbite_Crossbow = ItemLibrary_upvr.ViewModels["Frostbite Crossbow"]
+add_cosmetic_upvr("Skin", "Rare", "Frostbite Crossbow", Frostbite_Crossbow.Image, 3, nil, nil, nil, {
+	ItemName = "Crossbow";
+	ImageHighResolution = Frostbite_Crossbow.ImageHighResolution;
+})
+local _025_Energy_Pistols = ItemLibrary_upvr.ViewModels["2025 Energy Pistols"]
+add_cosmetic_upvr("Skin", "Rare", "2025 Energy Pistols", _025_Energy_Pistols.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Pistols";
+	ImageHighResolution = _025_Energy_Pistols.ImageHighResolution;
+})
+local _025_Energy_Rifle = ItemLibrary_upvr.ViewModels["2025 Energy Rifle"]
+add_cosmetic_upvr("Skin", "Rare", "2025 Energy Rifle", _025_Energy_Rifle.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Rifle";
+	ImageHighResolution = _025_Energy_Rifle.ImageHighResolution;
+})
+local _025_Katana = ItemLibrary_upvr.ViewModels["2025 Katana"]
+add_cosmetic_upvr("Skin", "Rare", "2025 Katana", _025_Katana.Image, 3, nil, nil, nil, {
+	ItemName = "Katana";
+	ImageHighResolution = _025_Katana.ImageHighResolution;
+})
+local Snowblower = ItemLibrary_upvr.ViewModels.Snowblower
+add_cosmetic_upvr("Skin", "Rare", "Snowblower", Snowblower.Image, 3, nil, nil, nil, {
+	ItemName = "Flamethrower";
+	ImageHighResolution = Snowblower.ImageHighResolution;
+})
+local Cryo_Scythe = ItemLibrary_upvr.ViewModels["Cryo Scythe"]
+add_cosmetic_upvr("Skin", "Rare", "Cryo Scythe", Cryo_Scythe.Image, 3, nil, nil, nil, {
+	ItemName = "Scythe";
+	ImageHighResolution = Cryo_Scythe.ImageHighResolution;
+})
+local Snowball_Launcher = ItemLibrary_upvr.ViewModels["Snowball Launcher"]
+add_cosmetic_upvr("Skin", "Rare", "Snowball Launcher", Snowball_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade Launcher";
+	ImageHighResolution = Snowball_Launcher.ImageHighResolution;
+})
+local Bounce_House = ItemLibrary_upvr.ViewModels["Bounce House"]
+add_cosmetic_upvr("Skin", "Rare", "Bounce House", Bounce_House.Image, 3, nil, nil, nil, {
+	ItemName = "Jump Pad";
+	ImageHighResolution = Bounce_House.ImageHighResolution;
+})
+local Dream_Bow = ItemLibrary_upvr.ViewModels["Dream Bow"]
+add_cosmetic_upvr("Skin", "Rare", "Dream Bow", Dream_Bow.Image, 3, nil, nil, nil, {
+	ItemName = "Bow";
+	ImageHighResolution = Dream_Bow.ImageHighResolution;
+})
+local Energy_Shield = ItemLibrary_upvr.ViewModels["Energy Shield"]
+add_cosmetic_upvr("Skin", "Rare", "Energy Shield", Energy_Shield.Image, 3, nil, nil, nil, {
+	ItemName = "Riot Shield";
+	ImageHighResolution = Energy_Shield.ImageHighResolution;
+})
+local Fists_of_Hurt = ItemLibrary_upvr.ViewModels["Fists of Hurt"]
+add_cosmetic_upvr("Skin", "Rare", "Fists of Hurt", Fists_of_Hurt.Image, 3, nil, nil, nil, {
+	ItemName = "Fists";
+	ImageHighResolution = Fists_of_Hurt.ImageHighResolution;
+})
+local Gearnade_Launcher = ItemLibrary_upvr.ViewModels["Gearnade Launcher"]
+add_cosmetic_upvr("Skin", "Rare", "Gearnade Launcher", Gearnade_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade Launcher";
+	ImageHighResolution = Gearnade_Launcher.ImageHighResolution;
+})
+local Glitterthrower = ItemLibrary_upvr.ViewModels.Glitterthrower
+add_cosmetic_upvr("Skin", "Rare", "Glitterthrower", Glitterthrower.Image, 3, nil, nil, nil, {
+	ItemName = "Flamethrower";
+	ImageHighResolution = Glitterthrower.ImageHighResolution;
+})
+local Gum_Ray = ItemLibrary_upvr.ViewModels["Gum Ray"]
+add_cosmetic_upvr("Skin", "Rare", "Gum Ray", Gum_Ray.Image, 3, nil, nil, nil, {
+	ItemName = "Freeze Ray";
+	ImageHighResolution = Gum_Ray.ImageHighResolution;
+})
+local Harpoon_Crossbow = ItemLibrary_upvr.ViewModels["Harpoon Crossbow"]
+add_cosmetic_upvr("Skin", "Rare", "Harpoon Crossbow", Harpoon_Crossbow.Image, 3, nil, nil, nil, {
+	ItemName = "Crossbow";
+	ImageHighResolution = Harpoon_Crossbow.ImageHighResolution;
+})
+local Hourglass = ItemLibrary_upvr.ViewModels.Hourglass
+add_cosmetic_upvr("Skin", "Rare", "Hourglass", Hourglass.Image, 3, nil, nil, nil, {
+	ItemName = "Smoke Grenade";
+	ImageHighResolution = Hourglass.ImageHighResolution;
+})
+local Hydro_Rifle = ItemLibrary_upvr.ViewModels["Hydro Rifle"]
+add_cosmetic_upvr("Skin", "Rare", "Hydro Rifle", Hydro_Rifle.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Rifle";
+	ImageHighResolution = Hydro_Rifle.ImageHighResolution;
+})
+local Lava_Lamp = ItemLibrary_upvr.ViewModels["Lava Lamp"]
+add_cosmetic_upvr("Skin", "Rare", "Lava Lamp", Lava_Lamp.Image, 3, nil, nil, nil, {
+	ItemName = "Molotov";
+	ImageHighResolution = Lava_Lamp.ImageHighResolution;
+})
+local Paintbrush = ItemLibrary_upvr.ViewModels.Paintbrush
+add_cosmetic_upvr("Skin", "Rare", "Paintbrush", Paintbrush.Image, 3, nil, nil, nil, {
+	ItemName = "Trowel";
+	ImageHighResolution = Paintbrush.ImageHighResolution;
+})
+local Sakura_Scythe = ItemLibrary_upvr.ViewModels["Sakura Scythe"]
+add_cosmetic_upvr("Skin", "Rare", "Sakura Scythe", Sakura_Scythe.Image, 3, nil, nil, nil, {
+	ItemName = "Scythe";
+	ImageHighResolution = Sakura_Scythe.ImageHighResolution;
+})
+local Squid_Launcher = ItemLibrary_upvr.ViewModels["Squid Launcher"]
+add_cosmetic_upvr("Skin", "Rare", "Squid Launcher", Squid_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "RPG";
+	ImageHighResolution = Squid_Launcher.ImageHighResolution;
+})
+local Stellar_Katana = ItemLibrary_upvr.ViewModels["Stellar Katana"]
+add_cosmetic_upvr("Skin", "Rare", "Stellar Katana", Stellar_Katana.Image, 3, nil, nil, nil, {
+	ItemName = "Katana";
+	ImageHighResolution = Stellar_Katana.ImageHighResolution;
+})
+local Air_Horn = ItemLibrary_upvr.ViewModels["Air Horn"]
+add_cosmetic_upvr("Skin", "Rare", "Air Horn", Air_Horn.Image, 3, nil, nil, nil, {
+	ItemName = "War Horn";
+	ImageHighResolution = Air_Horn.ImageHighResolution;
+})
+local Masterpiece = ItemLibrary_upvr.ViewModels.Masterpiece
+add_cosmetic_upvr("Skin", "Rare", "Masterpiece", Masterpiece.Image, 3, nil, nil, nil, {
+	ItemName = "Riot Shield";
+	ImageHighResolution = Masterpiece.ImageHighResolution;
+})
+local Cerulean_Axe = ItemLibrary_upvr.ViewModels["Cerulean Axe"]
+add_cosmetic_upvr("Skin", "Rare", "Cerulean Axe", Cerulean_Axe.Image, 3, nil, nil, nil, {
+	ItemName = "Battle Axe";
+	ImageHighResolution = Cerulean_Axe.ImageHighResolution;
+})
+local Hydro_Pistols = ItemLibrary_upvr.ViewModels["Hydro Pistols"]
+add_cosmetic_upvr("Skin", "Rare", "Hydro Pistols", Hydro_Pistols.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Pistols";
+	ImageHighResolution = Hydro_Pistols.ImageHighResolution;
+})
+local Shady_Chicken_Sandwich = ItemLibrary_upvr.ViewModels["Shady Chicken Sandwich"]
+add_cosmetic_upvr("Skin", "Rare", "Shady Chicken Sandwich", Shady_Chicken_Sandwich.Image, 3, nil, nil, nil, {
+	ItemName = "Jump Pad";
+	ImageHighResolution = Shady_Chicken_Sandwich.ImageHighResolution;
+})
+local Violin_Crossbow = ItemLibrary_upvr.ViewModels["Violin Crossbow"]
+add_cosmetic_upvr("Skin", "Rare", "Violin Crossbow", Violin_Crossbow.Image, 3, nil, nil, nil, {
+	ItemName = "Crossbow";
+	ImageHighResolution = Violin_Crossbow.ImageHighResolution;
+})
+local Saber = ItemLibrary_upvr.ViewModels.Saber
+add_cosmetic_upvr("Skin", "Legendary", "Saber", Saber.Image, 3, nil, nil, nil, {
+	ItemName = "Katana";
+	ImageHighResolution = Saber.ImageHighResolution;
+})
+local Nuke_Launcher = ItemLibrary_upvr.ViewModels["Nuke Launcher"]
+add_cosmetic_upvr("Skin", "Legendary", "Nuke Launcher", Nuke_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "RPG";
+	ImageHighResolution = Nuke_Launcher.ImageHighResolution;
+})
+local Whoopee_Cushion = ItemLibrary_upvr.ViewModels["Whoopee Cushion"]
+add_cosmetic_upvr("Skin", "Legendary", "Whoopee Cushion", Whoopee_Cushion.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade";
+	ImageHighResolution = Whoopee_Cushion.ImageHighResolution;
+})
+local Disco_Ball = ItemLibrary_upvr.ViewModels["Disco Ball"]
+add_cosmetic_upvr("Skin", "Legendary", "Disco Ball", Disco_Ball.Image, 3, nil, nil, nil, {
+	ItemName = "Flashbang";
+	ImageHighResolution = Disco_Ball.ImageHighResolution;
+})
+local Singularity = ItemLibrary_upvr.ViewModels.Singularity
+add_cosmetic_upvr("Skin", "Legendary", "Singularity", Singularity.Image, 3, nil, nil, nil, {
+	ItemName = "Exogun";
+	ImageHighResolution = Singularity.ImageHighResolution;
+})
+local Pixel_Sniper = ItemLibrary_upvr.ViewModels["Pixel Sniper"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Sniper", Pixel_Sniper.Image, 3, nil, nil, nil, {
+	ItemName = "Sniper";
+	ImageHighResolution = Pixel_Sniper.ImageHighResolution;
+})
+local Don_t_Press = ItemLibrary_upvr.ViewModels["Don't Press"]
+add_cosmetic_upvr("Skin", "Legendary", "Don't Press", Don_t_Press.Image, 3, nil, nil, nil, {
+	ItemName = "Subspace Tripmine";
+	ImageHighResolution = Don_t_Press.ImageHighResolution;
+})
+local Lasergun_3000 = ItemLibrary_upvr.ViewModels["Lasergun 3000"]
+add_cosmetic_upvr("Skin", "Legendary", "Lasergun 3000", Lasergun_3000.Image, 3, nil, nil, nil, {
+	ItemName = "Minigun";
+	ImageHighResolution = Lasergun_3000.ImageHighResolution;
+})
+local Firework_Gun = ItemLibrary_upvr.ViewModels["Firework Gun"]
+add_cosmetic_upvr("Skin", "Legendary", "Firework Gun", Firework_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Flare Gun";
+	ImageHighResolution = Firework_Gun.ImageHighResolution;
+})
+local Pixel_Flamethrower = ItemLibrary_upvr.ViewModels["Pixel Flamethrower"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Flamethrower", Pixel_Flamethrower.Image, 3, nil, nil, nil, {
+	ItemName = "Flamethrower";
+	ImageHighResolution = Pixel_Flamethrower.ImageHighResolution;
+})
+local Swashbuckler = ItemLibrary_upvr.ViewModels.Swashbuckler
+add_cosmetic_upvr("Skin", "Legendary", "Swashbuckler", Swashbuckler.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade Launcher";
+	ImageHighResolution = Swashbuckler.ImageHighResolution;
+})
+local Electro_Rifle = ItemLibrary_upvr.ViewModels["Electro Rifle"]
+add_cosmetic_upvr("Skin", "Legendary", "Electro Rifle", Electro_Rifle.Image, 3, nil, nil, nil, {
+	ItemName = "Burst Rifle";
+	ImageHighResolution = Electro_Rifle.ImageHighResolution;
+})
+local Balloon_Shotgun = ItemLibrary_upvr.ViewModels["Balloon Shotgun"]
+add_cosmetic_upvr("Skin", "Legendary", "Balloon Shotgun", Balloon_Shotgun.Image, 3, nil, nil, nil, {
+	ItemName = "Shotgun";
+	ImageHighResolution = Balloon_Shotgun.ImageHighResolution;
+})
+local Emoji_Cloud = ItemLibrary_upvr.ViewModels["Emoji Cloud"]
+add_cosmetic_upvr("Skin", "Legendary", "Emoji Cloud", Emoji_Cloud.Image, 3, nil, nil, nil, {
+	ItemName = "Smoke Grenade";
+	ImageHighResolution = Emoji_Cloud.ImageHighResolution;
+})
+local Sandwich = ItemLibrary_upvr.ViewModels.Sandwich
+add_cosmetic_upvr("Skin", "Legendary", "Sandwich", Sandwich.Image, 3, nil, nil, nil, {
+	ItemName = "Medkit";
+	ImageHighResolution = Sandwich.ImageHighResolution;
+})
+local Temporal_Ray = ItemLibrary_upvr.ViewModels["Temporal Ray"]
+add_cosmetic_upvr("Skin", "Legendary", "Temporal Ray", Temporal_Ray.Image, 3, nil, nil, nil, {
+	ItemName = "Freeze Ray";
+	ImageHighResolution = Temporal_Ray.ImageHighResolution;
+})
+local Electro_Uzi = ItemLibrary_upvr.ViewModels["Electro Uzi"]
+add_cosmetic_upvr("Skin", "Legendary", "Electro Uzi", Electro_Uzi.Image, 3, nil, nil, nil, {
+	ItemName = "Uzi";
+	ImageHighResolution = Electro_Uzi.ImageHighResolution;
+})
+local Hand_Gun = ItemLibrary_upvr.ViewModels["Hand Gun"]
+add_cosmetic_upvr("Skin", "Legendary", "Hand Gun", Hand_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Handgun";
+	ImageHighResolution = Hand_Gun.ImageHighResolution;
+})
+local Sheriff = ItemLibrary_upvr.ViewModels.Sheriff
+add_cosmetic_upvr("Skin", "Legendary", "Sheriff", Sheriff.Image, 3, nil, nil, nil, {
+	ItemName = "Revolver";
+	ImageHighResolution = Sheriff.ImageHighResolution;
+})
+local Karambit = ItemLibrary_upvr.ViewModels.Karambit
+add_cosmetic_upvr("Skin", "Legendary", "Karambit", Karambit.Image, 3, nil, nil, nil, {
+	ItemName = "Knife";
+	ImageHighResolution = Karambit.ImageHighResolution;
+})
+local Spaceship_Launcher = ItemLibrary_upvr.ViewModels["Spaceship Launcher"]
+add_cosmetic_upvr("Skin", "Legendary", "Spaceship Launcher", Spaceship_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "RPG";
+	ImageHighResolution = Spaceship_Launcher.ImageHighResolution;
+})
+local Handsaws = ItemLibrary_upvr.ViewModels.Handsaws
+add_cosmetic_upvr("Skin", "Legendary", "Handsaws", Handsaws.Image, 3, nil, nil, nil, {
+	ItemName = "Chainsaw";
+	ImageHighResolution = Handsaws.ImageHighResolution;
+})
+local Camera = ItemLibrary_upvr.ViewModels.Camera
+add_cosmetic_upvr("Skin", "Legendary", "Camera", Camera.Image, 3, nil, nil, nil, {
+	ItemName = "Flashbang";
+	ImageHighResolution = Camera.ImageHighResolution;
+})
+local Boba_Gun = ItemLibrary_upvr.ViewModels["Boba Gun"]
+add_cosmetic_upvr("Skin", "Legendary", "Boba Gun", Boba_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Paintball Gun";
+	ImageHighResolution = Boba_Gun.ImageHighResolution;
+})
+local Hyper_Sniper = ItemLibrary_upvr.ViewModels["Hyper Sniper"]
+add_cosmetic_upvr("Skin", "Legendary", "Hyper Sniper", Hyper_Sniper.Image, 3, nil, nil, nil, {
+	ItemName = "Sniper";
+	ImageHighResolution = Hyper_Sniper.ImageHighResolution;
+})
+local Hyper_Shotgun = ItemLibrary_upvr.ViewModels["Hyper Shotgun"]
+add_cosmetic_upvr("Skin", "Legendary", "Hyper Shotgun", Hyper_Shotgun.Image, 3, nil, nil, nil, {
+	ItemName = "Shotgun";
+	ImageHighResolution = Hyper_Shotgun.ImageHighResolution;
+})
+local Laptop = ItemLibrary_upvr.ViewModels.Laptop
+add_cosmetic_upvr("Skin", "Legendary", "Laptop", Laptop.Image, 3, nil, nil, nil, {
+	ItemName = "Medkit";
+	ImageHighResolution = Laptop.ImageHighResolution;
+})
+local Pixel_Minigun = ItemLibrary_upvr.ViewModels["Pixel Minigun"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Minigun", Pixel_Minigun.Image, 3, nil, nil, nil, {
+	ItemName = "Minigun";
+	ImageHighResolution = Pixel_Minigun.ImageHighResolution;
+})
+local AUG = ItemLibrary_upvr.ViewModels.AUG
+add_cosmetic_upvr("Skin", "Legendary", "AUG", AUG.Image, 3, nil, nil, nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = AUG.ImageHighResolution;
+})
+local Pixel_Burst = ItemLibrary_upvr.ViewModels["Pixel Burst"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Burst", Pixel_Burst.Image, 3, nil, "Included in the Pixel Bundle", nil, {
+	ItemName = "Burst Rifle";
+	ImageHighResolution = Pixel_Burst.ImageHighResolution;
+})
+local Pixel_Handgun = ItemLibrary_upvr.ViewModels["Pixel Handgun"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Handgun", Pixel_Handgun.Image, 3, nil, "Included in the Pixel Bundle", nil, {
+	ItemName = "Handgun";
+	ImageHighResolution = Pixel_Handgun.ImageHighResolution;
+})
+local Pixel_Katana = ItemLibrary_upvr.ViewModels["Pixel Katana"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Katana", Pixel_Katana.Image, 3, nil, "Included in the Pixel Bundle", nil, {
+	ItemName = "Katana";
+	ImageHighResolution = Pixel_Katana.ImageHighResolution;
+})
+local Pixel_Flashbang = ItemLibrary_upvr.ViewModels["Pixel Flashbang"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Flashbang", Pixel_Flashbang.Image, 3, nil, "Included in the Pixel Bundle", nil, {
+	ItemName = "Flashbang";
+	ImageHighResolution = Pixel_Flashbang.ImageHighResolution;
+})
+local Eyeball = ItemLibrary_upvr.ViewModels.Eyeball
+add_cosmetic_upvr("Skin", "Legendary", "Eyeball", Eyeball.Image, 3, nil, nil, nil, {
+	ItemName = "Smoke Grenade";
+	ImageHighResolution = Eyeball.ImageHighResolution;
+})
+local Spider_Ray = ItemLibrary_upvr.ViewModels["Spider Ray"]
+add_cosmetic_upvr("Skin", "Legendary", "Spider Ray", Spider_Ray.Image, 3, nil, nil, nil, {
+	ItemName = "Freeze Ray";
+	ImageHighResolution = Spider_Ray.ImageHighResolution;
+})
+local Bucket_of_Candy = ItemLibrary_upvr.ViewModels["Bucket of Candy"]
+add_cosmetic_upvr("Skin", "Legendary", "Bucket of Candy", Bucket_of_Candy.Image, 3, nil, nil, nil, {
+	ItemName = "Medkit";
+	ImageHighResolution = Bucket_of_Candy.ImageHighResolution;
+})
+local Pumpkin_Launcher = ItemLibrary_upvr.ViewModels["Pumpkin Launcher"]
+add_cosmetic_upvr("Skin", "Legendary", "Pumpkin Launcher", Pumpkin_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "RPG";
+	ImageHighResolution = Pumpkin_Launcher.ImageHighResolution;
+})
+local Vexed_Flare_Gun = ItemLibrary_upvr.ViewModels["Vexed Flare Gun"]
+add_cosmetic_upvr("Skin", "Legendary", "Vexed Flare Gun", Vexed_Flare_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Flare Gun";
+	ImageHighResolution = Vexed_Flare_Gun.ImageHighResolution;
+})
+local Vexed_Candle = ItemLibrary_upvr.ViewModels["Vexed Candle"]
+add_cosmetic_upvr("Skin", "Legendary", "Vexed Candle", Vexed_Candle.Image, 3, nil, nil, nil, {
+	ItemName = "Molotov";
+	ImageHighResolution = Vexed_Candle.ImageHighResolution;
+})
+local Soul_Grenade = ItemLibrary_upvr.ViewModels["Soul Grenade"]
+add_cosmetic_upvr("Skin", "Legendary", "Soul Grenade", Soul_Grenade.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade";
+	ImageHighResolution = Soul_Grenade.ImageHighResolution;
+})
+local Skull_Launcher = ItemLibrary_upvr.ViewModels["Skull Launcher"]
+add_cosmetic_upvr("Skin", "Legendary", "Skull Launcher", Skull_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "Grenade Launcher";
+	ImageHighResolution = Skull_Launcher.ImageHighResolution;
+})
+local Buzzsaw = ItemLibrary_upvr.ViewModels.Buzzsaw
+add_cosmetic_upvr("Skin", "Legendary", "Buzzsaw", Buzzsaw.Image, 3, nil, nil, nil, {
+	ItemName = "Chainsaw";
+	ImageHighResolution = Buzzsaw.ImageHighResolution;
+})
+local Pixel_Crossbow = ItemLibrary_upvr.ViewModels["Pixel Crossbow"]
+add_cosmetic_upvr("Skin", "Legendary", "Pixel Crossbow", Pixel_Crossbow.Image, 3, nil, nil, nil, {
+	ItemName = "Crossbow";
+	ImageHighResolution = Pixel_Crossbow.ImageHighResolution;
+})
+local Hyper_Gunblade = ItemLibrary_upvr.ViewModels["Hyper Gunblade"]
+add_cosmetic_upvr("Skin", "Legendary", "Hyper Gunblade", Hyper_Gunblade.Image, 3, nil, nil, nil, {
+	ItemName = "Gunblade";
+	ImageHighResolution = Hyper_Gunblade.ImageHighResolution;
+})
+local The_Shred = ItemLibrary_upvr.ViewModels["The Shred"]
+add_cosmetic_upvr("Skin", "Legendary", "The Shred", The_Shred.Image, 3, nil, nil, nil, {
+	ItemName = "Battle Axe";
+	ImageHighResolution = The_Shred.ImageHighResolution;
+})
+local Gingerbread_AUG = ItemLibrary_upvr.ViewModels["Gingerbread AUG"]
+add_cosmetic_upvr("Skin", "Legendary", "Gingerbread AUG", Gingerbread_AUG.Image, 3, nil, nil, nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = Gingerbread_AUG.ImageHighResolution;
+})
+local Peppermint_Sheriff = ItemLibrary_upvr.ViewModels["Peppermint Sheriff"]
+add_cosmetic_upvr("Skin", "Legendary", "Peppermint Sheriff", Peppermint_Sheriff.Image, 3, nil, nil, nil, {
+	ItemName = "Revolver";
+	ImageHighResolution = Peppermint_Sheriff.ImageHighResolution;
+})
+local Firework_Launcher = ItemLibrary_upvr.ViewModels["Firework Launcher"]
+add_cosmetic_upvr("Skin", "Legendary", "Firework Launcher", Firework_Launcher.Image, 3, nil, nil, nil, {
+	ItemName = "RPG";
+	ImageHighResolution = Firework_Launcher.ImageHighResolution;
+})
+local Festive_Buzzsaw = ItemLibrary_upvr.ViewModels["Festive Buzzsaw"]
+add_cosmetic_upvr("Skin", "Legendary", "Festive Buzzsaw", Festive_Buzzsaw.Image, 3, nil, nil, nil, {
+	ItemName = "Chainsaw";
+	ImageHighResolution = Festive_Buzzsaw.ImageHighResolution;
+})
+local Milk___Cookies = ItemLibrary_upvr.ViewModels["Milk & Cookies"]
+add_cosmetic_upvr("Skin", "Legendary", "Milk & Cookies", Milk___Cookies.Image, 3, nil, nil, nil, {
+	ItemName = "Medkit";
+	ImageHighResolution = Milk___Cookies.ImageHighResolution;
+})
+local Hot_Coals = ItemLibrary_upvr.ViewModels["Hot Coals"]
+add_cosmetic_upvr("Skin", "Legendary", "Hot Coals", Hot_Coals.Image, 3, nil, nil, nil, {
+	ItemName = "Molotov";
+	ImageHighResolution = Hot_Coals.ImageHighResolution;
+})
+local Dev_in_the_Box = ItemLibrary_upvr.ViewModels["Dev-in-the-Box"]
+add_cosmetic_upvr("Skin", "Legendary", "Dev-in-the-Box", Dev_in_the_Box.Image, 3, nil, nil, nil, {
+	ItemName = "Subspace Tripmine";
+	ImageHighResolution = Dev_in_the_Box.ImageHighResolution;
+})
+local Candy_Cane = ItemLibrary_upvr.ViewModels["Candy Cane"]
+add_cosmetic_upvr("Skin", "Legendary", "Candy Cane", Candy_Cane.Image, 3, nil, nil, nil, {
+	ItemName = "Knife";
+	ImageHighResolution = Candy_Cane.ImageHighResolution;
+})
+local Balloon_Shorty = ItemLibrary_upvr.ViewModels["Balloon Shorty"]
+add_cosmetic_upvr("Skin", "Legendary", "Balloon Shorty", Balloon_Shorty.Image, 3, nil, nil, nil, {
+	ItemName = "Shorty";
+	ImageHighResolution = Balloon_Shorty.ImageHighResolution;
+})
+local Void_Pistols = ItemLibrary_upvr.ViewModels["Void Pistols"]
+add_cosmetic_upvr("Skin", "Legendary", "Void Pistols", Void_Pistols.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Pistols";
+	ImageHighResolution = Void_Pistols.ImageHighResolution;
+})
+local Money_Gun = ItemLibrary_upvr.ViewModels["Money Gun"]
+add_cosmetic_upvr("Skin", "Legendary", "Money Gun", Money_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Uzi";
+	ImageHighResolution = Money_Gun.ImageHighResolution;
+})
+local Medkitty = ItemLibrary_upvr.ViewModels.Medkitty
+add_cosmetic_upvr("Skin", "Legendary", "Medkitty", Medkitty.Image, 3, nil, nil, nil, {
+	ItemName = "Medkit";
+	ImageHighResolution = Medkitty.ImageHighResolution;
+})
+local Balisong = ItemLibrary_upvr.ViewModels.Balisong
+add_cosmetic_upvr("Skin", "Legendary", "Balisong", Balisong.Image, 3, nil, nil, nil, {
+	ItemName = "Knife";
+	ImageHighResolution = Balisong.ImageHighResolution;
+})
+local Event_Horizon = ItemLibrary_upvr.ViewModels["Event Horizon"]
+add_cosmetic_upvr("Skin", "Legendary", "Event Horizon", Event_Horizon.Image, 3, nil, nil, nil, {
+	ItemName = "Sniper";
+	ImageHighResolution = Event_Horizon.ImageHighResolution;
+})
+local Banana_Flare = ItemLibrary_upvr.ViewModels["Banana Flare"]
+add_cosmetic_upvr("Skin", "Legendary", "Banana Flare", Banana_Flare.Image, 3, nil, nil, nil, {
+	ItemName = "Flare Gun";
+	ImageHighResolution = Banana_Flare.ImageHighResolution;
+})
+local Fighter_Jet = ItemLibrary_upvr.ViewModels["Fighter Jet"]
+add_cosmetic_upvr("Skin", "Legendary", "Fighter Jet", Fighter_Jet.Image, 3, nil, nil, nil, {
+	ItemName = "Minigun";
+	ImageHighResolution = Fighter_Jet.ImageHighResolution;
+})
+local Harp = ItemLibrary_upvr.ViewModels.Harp
+add_cosmetic_upvr("Skin", "Legendary", "Harp", Harp.Image, 3, nil, nil, nil, {
+	ItemName = "Slingshot";
+	ImageHighResolution = Harp.ImageHighResolution;
+})
+local Repulsor = ItemLibrary_upvr.ViewModels.Repulsor
+add_cosmetic_upvr("Skin", "Legendary", "Repulsor", Repulsor.Image, 3, nil, nil, nil, {
+	ItemName = "Exogun";
+	ImageHighResolution = Repulsor.ImageHighResolution;
+})
+local Tommy_Gun = ItemLibrary_upvr.ViewModels["Tommy Gun"]
+add_cosmetic_upvr("Skin", "Legendary", "Tommy Gun", Tommy_Gun.Image, 3, nil, nil, nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = Tommy_Gun.ImageHighResolution;
+})
+local FAMAS = ItemLibrary_upvr.ViewModels.FAMAS
+add_cosmetic_upvr("Skin", "Legendary", "FAMAS", FAMAS.Image, 3, nil, nil, nil, {
+	ItemName = "Burst Rifle";
+	ImageHighResolution = FAMAS.ImageHighResolution;
+})
+local Peppergun = ItemLibrary_upvr.ViewModels.Peppergun
+add_cosmetic_upvr("Skin", "Legendary", "Peppergun", Peppergun.Image, 3, nil, nil, nil, {
+	ItemName = "Revolver";
+	ImageHighResolution = Peppergun.ImageHighResolution;
+})
+local Mega_Drill = ItemLibrary_upvr.ViewModels["Mega Drill"]
+add_cosmetic_upvr("Skin", "Legendary", "Mega Drill", Mega_Drill.Image, 3, nil, nil, nil, {
+	ItemName = "Chainsaw";
+	ImageHighResolution = Mega_Drill.ImageHighResolution;
+})
+local Spray_Bottle = ItemLibrary_upvr.ViewModels["Spray Bottle"]
+add_cosmetic_upvr("Skin", "Legendary", "Spray Bottle", Spray_Bottle.Image, 3, nil, nil, nil, {
+	ItemName = "Spray";
+	ImageHighResolution = Spray_Bottle.ImageHighResolution;
+})
+local Void_Rifle = ItemLibrary_upvr.ViewModels["Void Rifle"]
+add_cosmetic_upvr("Skin", "Legendary", "Void Rifle", Void_Rifle.Image, 3, nil, nil, nil, {
+	ItemName = "Energy Rifle";
+	ImageHighResolution = Void_Rifle.ImageHighResolution;
+})
+local Gunsaw = ItemLibrary_upvr.ViewModels.Gunsaw
+add_cosmetic_upvr("Skin", "Legendary", "Gunsaw", Gunsaw.Image, 3, nil, nil, nil, {
+	ItemName = "Gunblade";
+	ImageHighResolution = Gunsaw.ImageHighResolution;
+})
+local RPKEY = ItemLibrary_upvr.ViewModels.RPKEY
+add_cosmetic_upvr("Skin", "Mythical", "RPKEY", RPKEY.Image, 3, nil, "Used to be included in the Legendary Key Bundle", nil, {
+	ItemName = "RPG";
+	ImageHighResolution = RPKEY.ImageHighResolution;
+})
+local Keythe = ItemLibrary_upvr.ViewModels.Keythe
+add_cosmetic_upvr("Skin", "Mythical", "Keythe", Keythe.Image, 3, nil, "Used to be included in the Legendary Key Bundle", nil, {
+	ItemName = "Scythe";
+	ImageHighResolution = Keythe.ImageHighResolution;
+})
+local Keyper = ItemLibrary_upvr.ViewModels.Keyper
+add_cosmetic_upvr("Skin", "Mythical", "Keyper", Keyper.Image, 3, nil, "Used to be included in the Legendary Key Bundle", nil, {
+	ItemName = "Sniper";
+	ImageHighResolution = Keyper.ImageHighResolution;
+})
+local AKEY_47 = ItemLibrary_upvr.ViewModels["AKEY-47"]
+add_cosmetic_upvr("Skin", "Mythical", "AKEY-47", AKEY_47.Image, 3, nil, "Used to be included in the Legendary Key Bundle", nil, {
+	ItemName = "Assault Rifle";
+	ImageHighResolution = AKEY_47.ImageHighResolution;
+})
+local Crystal_Daggers = ItemLibrary_upvr.ViewModels["Crystal Daggers"]
+add_cosmetic_upvr("Skin", "Mythical", "Crystal Daggers", Crystal_Daggers.Image, 3, nil, "Used to be included in the Legendary Crystal Bundle", nil, {
+	ItemName = "Daggers";
+	ImageHighResolution = Crystal_Daggers.ImageHighResolution;
+})
+local Keytana = ItemLibrary_upvr.ViewModels.Keytana
+add_cosmetic_upvr("Skin", "Mythical", "Keytana", Keytana.Image, 3, nil, "Used to be included in the Legendary Key Bundle", nil, {
+	ItemName = "Katana";
+	ImageHighResolution = Keytana.ImageHighResolution;
+})
+local Keyvolver = ItemLibrary_upvr.ViewModels.Keyvolver
+add_cosmetic_upvr("Skin", "Mythical", "Keyvolver", Keyvolver.Image, 3, nil, "Used to be included in the Ultra Key Bundle", nil, {
+	ItemName = "Revolver";
+	ImageHighResolution = Keyvolver.ImageHighResolution;
+})
+local Shotkey = ItemLibrary_upvr.ViewModels.Shotkey
+add_cosmetic_upvr("Skin", "Mythical", "Shotkey", Shotkey.Image, 3, nil, "Used to be included in the Legendary Key Bundle", nil, {
+	ItemName = "Shotgun";
+	ImageHighResolution = Shotkey.ImageHighResolution;
+})
+local Keyzi = ItemLibrary_upvr.ViewModels.Keyzi
+add_cosmetic_upvr("Skin", "Mythical", "Keyzi", Keyzi.Image, 3, nil, "Used to be included in the Ultra Key Bundle", nil, {
+	ItemName = "Uzi";
+	ImageHighResolution = Keyzi.ImageHighResolution;
+})
+local Key_Bow = ItemLibrary_upvr.ViewModels["Key Bow"]
+add_cosmetic_upvr("Skin", "Mythical", "Key Bow", Key_Bow.Image, 3, nil, "Included in the Legendary Key Bundle", nil, {
+	ItemName = "Bow";
+	ImageHighResolution = Key_Bow.ImageHighResolution;
+})
+local Keynade = ItemLibrary_upvr.ViewModels.Keynade
+add_cosmetic_upvr("Skin", "Mythical", "Keynade", Keynade.Image, 3, nil, "Included in the Ultra Key Bundle", nil, {
+	ItemName = "Grenade";
+	ImageHighResolution = Keynade.ImageHighResolution;
+})
+local Bug_Net = ItemLibrary_upvr.ViewModels["Bug Net"]
+add_cosmetic_upvr("Skin", "Unobtainable", "Bug Net", Bug_Net.Image, 3, true, "Given to the best bug hunters, thank you for helping us improve the game (RIVALS)", nil, {
+	ItemName = "Scythe";
+	ImageHighResolution = Bug_Net.ImageHighResolution;
+})
+local Stealth_Handgun = ItemLibrary_upvr.ViewModels["Stealth Handgun"]
+add_cosmetic_upvr("Skin", "Unobtainable", "Stealth Handgun", Stealth_Handgun.Image, 3, true, "sneaky beaky like", nil, {
+	ItemName = "Handgun";
+	ImageHighResolution = Stealth_Handgun.ImageHighResolution;
+})
+local Armature_001 = ItemLibrary_upvr.ViewModels["Armature.001"]
+add_cosmetic_upvr("Skin", "Unobtainable", "Armature.001", Armature_001.Image, 3, true, "if this is leaked neko will be waterboarded and hit by a car 628 times", nil, {
+	ItemName = "Knife";
+	ImageHighResolution = Armature_001.ImageHighResolution;
+})
